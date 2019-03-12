@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.m \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKDeviceLoginManagerResult+Internal.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/Bolts/BFAppLinkResolving.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h

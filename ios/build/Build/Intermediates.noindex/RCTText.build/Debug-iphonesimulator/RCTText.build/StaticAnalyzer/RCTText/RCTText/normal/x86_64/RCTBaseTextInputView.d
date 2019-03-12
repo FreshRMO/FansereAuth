@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/benstrater-vidal/fansere/react-native-starter-kit/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
