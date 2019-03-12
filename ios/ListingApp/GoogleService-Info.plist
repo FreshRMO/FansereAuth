@@ -11,7 +11,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.706061484183-t6i8ar37jc4k3u1j82m5njmkoto5mnhb</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCh_R982LwXQkP9gDxN8Cfmc9NeZfx6z0Y</string>
+	<string>AIzaSyBu6OQLFGgghbxr-i7jiIdMHoToNIf3nG0</string>
 	<key>GCM_SENDER_ID</key>
 	<string>706061484183</string>
 	<key>PLIST_VERSION</key>
@@ -19,22 +19,22 @@
 	<key>BUNDLE_ID</key>
 	<string>io.instamobile.starterkit.rn.ios</string>
 	<key>PROJECT_ID</key>
-	<string>ios-app-templates</string>
+	<string>fansere-application</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ios-app-templates.appspot.com</string>
+	<string>fansere-application.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:706061484183:ios:3a9493b25df4aa0b</string>
 	<key>DATABASE_URL</key>
-	<string>https://ios-app-templates.firebaseio.com</string>
+	<string>https://fansere-application.firebaseio.com</string>
 </dict>
 </plist>
